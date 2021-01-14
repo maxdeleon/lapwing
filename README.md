@@ -2,6 +2,7 @@
 ## by Max DeLeon
 Limit calculator for your trades
 Alpha Version
+-Limit Calculations get worse the longer the trade horizon is
 
 ![alt text](https://github.com/maxdeleon/lapwing/blob/main/SOYB.png)
 ![alt text](https://github.com/maxdeleon/lapwing/blob/main/MSFT.png)
